@@ -95,7 +95,7 @@
     appveyor_project: philippjfr/hvplot
     badges: travis, appveyor, coveralls, rtd, pypi, conda, conda-forge, defaults
 
-  - repo: zarr-developers/zarr
+  - repo: zarr-developers/zarr-python
     badges: travis, appveyor, coveralls, rtd, pypi, conda-forge, defaults
 
   - repo: Unidata/netcdf4-python
