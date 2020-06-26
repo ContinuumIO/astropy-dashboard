@@ -96,6 +96,10 @@
     badges: travis, appveyor, coveralls, rtd, pypi, conda, conda-forge, defaults
 
   - repo: zarr-developers/zarr-python
+    appveyor_project: zarr-developers/zarr
+    conda_package: zarr
+    pypi_name: zarr
+    rtd_name: zarr
     badges: travis, appveyor, coveralls, rtd, pypi, conda-forge, defaults
 
   - repo: Unidata/netcdf4-python
