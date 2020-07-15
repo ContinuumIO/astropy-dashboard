@@ -44,7 +44,7 @@
     badges: travis, rtd, conda
 
   - repo: intake/intake-solr
-    badges: travis, rtd, conda
+    badges: travis, rtd, pypi, conda
 
   - repo: intake/intake-splunk
     badges: travis, rtd, conda
