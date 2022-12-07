@@ -67,8 +67,8 @@
           {% endif %}
           {% if 'pypi' in package.badges %}
           <td align='left'>
-            <a href="https://pypi.python.org/pypi/{{ package.pypi_name }}">
-              <img src="https://pypip.in/v/{{ package.pypi_name }}/badge.svg?colorB=cc77dd">
+            <a href="https://pypi.org/project/{{ package.pypi_name }}">
+              <img src="https://img.shields.io/pypi/v/{{ package.pypi_name }}.svg?maxAge=3600">
             </a>
           </td>
           {% else %}
