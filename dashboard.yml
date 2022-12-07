@@ -29,28 +29,28 @@
     badges: travis, rtd, pypi, conda-forge
 
   - repo: intake/intake-astro
-    badges: travis, rtd, pypi, conda-forge
+    badges: travis, rtd, pypi, conda, conda-forge
 
   - repo: intake/intake-netflow
-    badges: travis, rtd, conda-forge
+    badges: travis, rtd, conda
 
   - repo: intake/intake-mongo
-    badges: travis, rtd, conda-forge
+    badges: travis, rtd, conda
 
   - repo: intake/intake-postgres
-    badges: travis, rtd, conda-forge
+    badges: travis, rtd, conda
 
   - repo: intake/intake-odbc
-    badges: travis, rtd, conda-forge
+    badges: travis, rtd, conda
 
   - repo: intake/intake-solr
-    badges: travis, rtd, pypi, conda-forge
+    badges: travis, rtd, pypi, conda
 
   - repo: intake/intake-splunk
-    badges: travis, rtd, conda-forge
+    badges: travis, rtd, conda
 
   - repo: intake/intake-hbase
-    badges: travis, rtd, conda-forge
+    badges: travis, rtd, conda
 
   - repo: informatics-lab/intake_geopandas
     conda_channel: informaticslab
