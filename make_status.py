@@ -2,7 +2,7 @@
 
 import sys
 from jinja2 import Template
-from yaml import load
+from yaml import safe_load as load
 import requests
 
 with open('dashboard.yml') as f:
