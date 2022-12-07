@@ -58,7 +58,7 @@ for section in config:
                 package['travis_project'] = package['repo']
             package['travis_dot'] = package.get('travis_dot', 'org')
         if 'conda' in package['badges'] and 'conda_channel' not in package:
-            package['conda_channel'] = 'intake'
+            package['conda_channel'] = 'conda-forge'
 
 # affiliated['packages'] = sorted(affiliated['packages'], key=lambda x: x['name'].lower())
 
