@@ -3,30 +3,30 @@
   packages:
 
   - repo: intake/intake
-    badges: travis, appveyor, rtd, pypi, conda, conda-forge, defaults
+    badges: travis, appveyor, rtd, pypi, conda-forge, defaults
     appveyor_project: jsignell/intake
 
   - repo: intake/intake-xarray
-    badges: travis, appveyor, rtd, pypi, conda, conda-forge, defaults
+    badges: travis, appveyor, rtd, pypi, conda-forge, defaults
     appveyor_project: jsignell/intake-xarray
 
   - repo: intake/intake-parquet
-    badges: travis, rtd, pypi, conda, conda-forge
+    badges: travis, rtd, pypi, conda-forge
 
   - repo: intake/intake-spark
-    badges: travis, rtd, pypi, conda, conda-forge
+    badges: travis, rtd, pypi, conda-forge
 
   - repo: intake/intake-accumulo
-    badges: travis, rtd, pypi, conda, conda-forge
+    badges: travis, rtd, pypi, conda-forge
 
   - repo: intake/intake-sql
-    badges: travis, rtd, pypi, conda, conda-forge
+    badges: travis, rtd, pypi, conda-forge
 
   - repo: intake/intake-elasticsearch
-    badges: travis, rtd, pypi, conda, conda-forge
+    badges: travis, rtd, pypi, conda-forge
 
   - repo: intake/intake-avro
-    badges: travis, rtd, pypi, conda, conda-forge
+    badges: travis, rtd, pypi, conda-forge
 
   - repo: intake/intake-astro
     badges: travis, rtd, pypi, conda, conda-forge
