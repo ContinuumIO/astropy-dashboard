@@ -1,0 +1,9 @@
+name: intake-status
+channels:
+- conda-forge
+- nodefaults
+dependencies:
+- python
+- jinja2
+- pyyaml
+- requests
