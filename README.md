@@ -1,3 +1,7 @@
+This repo is retired, as the information is now generated as part of the main 
+[intake docs](https://intake.readthedocs.io/en/latest/plugin-directory.html) 
+page https://github.com/intake/intake/pull/711 .
+
 ### The Intake Dashboard
 
 This repository is used to generate a dashboard that allows statuses for various
